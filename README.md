@@ -10,6 +10,14 @@ etapa posterior, **interatividade visual com CSS**.
 
 ---
 
+## 🔗Visualização do Projeto:
+
+Está disponível via **GitHub Pages**:
+
+➡️ https://vanessayuriab.github.io/seu-portfolio/
+
+---
+
 ## 📌 Visão Geral
 
 O site apresenta projetos organizados em seções temáticas, com código progressivamente
