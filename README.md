@@ -1,12 +1,16 @@
-# Seu Portfólio
+# 🗂️ Seu Portfólio
 
-> Este é um **projeto educacional guiado** desenvolvido durante o curso de Desenvolvimento
-> Web da **TripleTen**, iniciado na **Sprint 2 – Layout de Página e Semântica** e
-> posteriormente expandido na **Sprint 4 – HTML e CSS Avançados**.
+Este é um **projeto educacional guiado** desenvolvido durante o curso de Desenvolvimento
+Web da **TripleTen**, iniciado na **Sprint 2 – Layout de Página e Semântica** e
+posteriormente expandido na **Sprint 4 – HTML e CSS Avançados**.
 
 O projeto simula um _portfólio pessoal_, utilizado como exercício prático para consolidar
 conceitos essenciais de **estruturação de páginas web**, **semântica HTML** e, em uma
 etapa posterior, **interatividade visual com CSS**.
+
+> Após a conclusão do curso, o projeto foi personalizado e adaptado, passando a
+> representar um portfólio pessoal, com projetos próprios desenvolvidos ao longo do
+> bootcamp e links reais de contato.
 
 ---
 
@@ -21,10 +25,19 @@ Está disponível via **GitHub Pages**:
 ## 📌 Visão Geral
 
 O site apresenta projetos organizados em seções temáticas, com código progressivamente
-aprimorado ao longo das sprints do curso.
+aprimorado ao longo das Sprints do curso.
 
 Cada etapa teve um **objetivo educacional específico**, refletindo a evolução técnica do
 conteúdo estudado.
+
+Após a finalização o curso, foram realizadas adaptações autorais, incluindo:
+
+- Adição dos **projetos desenvolvidos pela autora**
+- Inserção de **links reais para redes sociais e repositórios**
+- **Personalização de cores e detalhes visuais**, reforçando identidade própria
+
+Essas alterações não fizeram parte da avaliação do curso e foram realizadas de forma
+independente.
 
 ---
 
@@ -201,7 +214,7 @@ objetivos de cada sprint.
 
 ---
 
-## 🚀 Como Visualizar o Projeto
+## 🚀 Como Abrir o Projeto
 
 1. Clone o repositório:
 
